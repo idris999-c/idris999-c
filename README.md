@@ -36,9 +36,11 @@ I'm a Freelance Web Developer with 2+ years of experience building modern, user-
 - 🌐 **[hexaWebShare](https://github.com/hexaWebShare)** - A library built with Svelte, DaisyUI, and TypeScript
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idris999-c&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idris999-c&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=idris999-c&theme=radical&hide_border=true&area=true" />
+</p>
+
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-idris-celik-/)
