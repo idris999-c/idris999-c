@@ -4,7 +4,7 @@
 I'm a Freelance Web Developer with 2+ years of experience building modern, user-friendly web applications. I'm passionate about creating performant solutions and contributing to open-source projects that benefit the community.
 
 - 💼 Freelance Web Developer
-- 🌱 **Backend (Go, Node.js)** ve **Mobil Geliştirme (React Native, Flutter)** öğrenmeyi planlıyorum.
+- 🌱 I’m planning to learn **Backend Development (Go, Node.js)** and **Mobile Development (React Native, Flutter)**.
 - 🤝 Open source contributor
 - 🤖 Working on AI-powered projects and chatbots
 
