@@ -30,6 +30,13 @@
 - **Rahmet Yolcuları** — Mentorship-focused website  
   https://rahmetyolculari.com/
 
+### **Admin & Corporate**
+- **GastroAdmin** — Internal admin panel *(private)*  
+  Next.js, TypeScript, Tailwind
+
+- **Secunnix** — Cybersecurity corporate website  
+  Next.js, TypeScript, Tailwind
+
 ### **Open Source**
 - **hexaWebShare** — UI & utility library  
   https://github.com/hTuneSys/hexaWebShare
