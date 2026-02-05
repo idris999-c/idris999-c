@@ -1,47 +1,50 @@
-# 👋 Hi, I'm İdris Çelik!
+# Frontend-focused Web Developer
 
-## 🚀 About Me
-I'm a Freelance Web Developer with 2+ years of experience building modern, user-friendly web applications. I'm passionate about creating performant solutions and contributing to open-source projects that benefit the community.
+**Frontend-focused web developer** building **production-ready web applications** and **open-source projects** with modern JavaScript frameworks.
 
-- 💼 Freelance Web Developer
-- 🌱 I’m planning to learn **Backend Development (Go, Node.js)** and **Mobile Development (React Native, Flutter)**.
-- 🤝 Open source contributor
-- 🤖 Working on AI-powered projects and chatbots
+## What I Build
+- **Blog & news platforms**
+- **Corporate websites**
+- **Admin panels & dashboards**
+- **Open-source UI libraries**
+- **Public-benefit projects**
 
-## 🛠️ Tech Stack
+## Tech Stack
+**Frameworks:** Next.js (App Router), React (Vite), Svelte  
+**Languages:** TypeScript, JavaScript  
+**Styling:** Tailwind CSS, DaisyUI, CSS  
+**Services & Deployment:** Firebase (Auth, basic DB), Netlify  
+**Other:** Storybook, REST API consumption, basic backend exposure
 
-### Frontend
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
+## Projects
 
-### Styling
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### **Production / Live**
+- **GastroYummy** — Public food platform  
+  *Next.js, TypeScript, Tailwind*  
+  https://gastroyummy.com/
 
-### Next to Learn 🌱
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+- **Rahmet Yolcuları** — Mentorship-focused website  
+  https://rahmetyolculari.com/
 
-## 🎯 Current Projects
-- 🤖 **AI Projects & Chatbots** - Developing AI-powered applications
-- 🌐 **[hexaWebShare](https://github.com/hTuneSys/hexaWebShare)** - A library built with Svelte, DaisyUI, and TypeScript
+### **Open Source**
+- **hexaWebShare** — UI & utility library  
+  *Svelte, TypeScript, Tailwind, DaisyUI, Storybook*  
+  https://github.com/hTuneSys/hexaWebShare
 
-## 📊 GitHub Stats
+### **Other Work**
+- **NEWS-PAGE (BLACKNEWS)** — Static news site  
+  *HTML, CSS*  
+  https://github.com/idris999-c/NEWS-PAGE
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=idris999-c&theme=radical&hide_border=true&area=true" />
-</p>
+- **Chatbot Project** — AI-powered interface *(in progress)*  
+- **PrintPazar** — Public-benefit project *(in progress)*  
+- **Portfolio** — Svelte-based personal site *(in progress)*
 
+## Open Source & Contributions
+- **Contributor at hTuneSys**
+- Community-driven projects
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-idris-celik-/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:idris.celik7265@gmail.com)
+## Contact
+- **GitHub:** https://github.com/idris999-c  
+- **LinkedIn:** https://www.linkedin.com/in/-idris-celik-/  
+- **Email:** idris.celik7265@gmail.com
