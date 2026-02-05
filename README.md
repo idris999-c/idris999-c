@@ -33,7 +33,7 @@ I'm a Freelance Web Developer with 2+ years of experience building modern, user-
 
 ## 🎯 Current Projects
 - 🤖 **AI Projects & Chatbots** - Developing AI-powered applications
-- 🌐 **[hexaWebShare](https://github.com/hexaWebShare)** - A library built with Svelte, DaisyUI, and TypeScript
+- 🌐 **[hexaWebShare](https://github.com/hTuneSys/hexaWebShare)** - A library built with Svelte, DaisyUI, and TypeScript
 
 ## 📊 GitHub Stats
 
