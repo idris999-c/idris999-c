@@ -40,6 +40,7 @@
 ### **Open Source**
 - **hexaWebShare** — UI & utility library  
   https://github.com/hTuneSys/hexaWebShare *(ongoing)*
+  
 - **PrintPazar** — Public-benefit project *(ongoing)*  
 ### **Other Work**
 - **Chatbot Project** — AI-powered interface *(ongoing)*  
