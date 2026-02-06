@@ -39,15 +39,11 @@
 
 ### **Open Source**
 - **hexaWebShare** — UI & utility library  
-  https://github.com/hTuneSys/hexaWebShare
-
+  https://github.com/hTuneSys/hexaWebShare *(ongoing)*
+- **PrintPazar** — Public-benefit project *(ongoing)*  
 ### **Other Work**
-- **NEWS-PAGE (BLACKNEWS)** — Static news site  
-  https://github.com/idris999-c/NEWS-PAGE
-
-- **Chatbot Project** — AI-powered interface *(in progress)*  
-- **PrintPazar** — Public-benefit project *(in progress)*  
-- **Portfolio** — Svelte-based personal site *(in progress)*
+- **Chatbot Project** — AI-powered interface *(ongoing)*  
+- **Portfolio** — Svelte-based personal site *(ongoing)*
 
 ## Open Source & Contributions
 - **Contributor at hTuneSys**
